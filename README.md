@@ -20,7 +20,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 - Device Admin
 - Built In APK Builder
 
-##  work in glitch.com web...
+##  work in glitch.com ...
 
 ## Prerequisites 
  - Java Runtime Environment 11 or above
